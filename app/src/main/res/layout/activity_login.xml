@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/etPassword"
         android:layout_marginTop="63dp"
-        android:text="Button"
+        android:text="Sign In"
         tools:layout_editor_absoluteX="188dp"
         tools:layout_editor_absoluteY="181dp" />
 
@@ -37,4 +37,5 @@
         android:inputType="textPassword"
         android:minHeight="48dp"
         tools:layout_editor_absoluteX="16dp" />
+
 </RelativeLayout>
